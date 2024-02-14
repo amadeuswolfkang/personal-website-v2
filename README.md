@@ -32,6 +32,6 @@ git push origin main
 ```
 
 ## Packages, libraries, and other tools:
-`gh-pages` - Publish files to a gh-pages branch.
-`react-icons` - SVG icons for React.
-`simple-icons` - More icons.
+`gh-pages` - Publish files to a gh-pages branch. <br />
+`react-icons` - SVG icons for React. <br />
+`simple-icons` - More icons. <br />
