@@ -31,7 +31,6 @@ git commit -m "updated"
 git push origin main
 ```
 
-## Packages, libraries, and other tools:
+## Packages, libraries, and other tools
 `gh-pages` - Publish files to a gh-pages branch. <br />
-`react-icons` - SVG icons for React. <br />
-`simple-icons` - More icons. <br />
+`react-icons` - Icons made to be used as React componnets. <br />
