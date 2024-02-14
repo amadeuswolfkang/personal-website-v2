@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# new-website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+This is Amadeus Kang's personal website. Mainly, it serves as a portfolio for recruiters.
 
-In the project directory, you can run:
+I use React because I intend to create a simple one-page web-application with the ability to add dynamic content later. If I was making a static web page, I would use Jekyll. I also use Typescript for the sake of learning it.
 
-### `npm start`
+Feel free to fork it. In fact, I encourage it.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Hosting and deployment
+The website is bootstrapped with [Create React App](https://create-react-app.dev/docs/adding-typescript/) and hosted by [GitHub Pages](https://docs.github.com/en/pages). I use a custom domain from [Squarespace Domains](https://domains.squarespace.com/).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Documentation
+[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+[Deploying a React App (create-react-app) to GitHub Pages](https://github.com/gitname/react-gh-pages)
 
-### `npm test`
+### Running commands
+I use [Git Bash](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_git-bash-on-windows) integrated in [VS Code](https://code.visualstudio.com/download) to run commands. I use [npm] for the package manager.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can preview the website by locally hosting it on your machine:
+```npm start```
 
-### `npm run build`
+Build and deploy the website:
+```npm run deploy```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+And as always, you can stage changes, commit, and push the main branch like this:
+```
+git add .
+git commit -m "updated"
+git push origin main
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Packages, libraries, and other tools:
+`gh-pages` - Publish files to a gh-pages branch.
+`react-icons` - SVG icons for React.
+`simple-icons` - More icons.
