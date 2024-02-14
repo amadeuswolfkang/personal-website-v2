@@ -1,4 +1,4 @@
-# new-website
+# personal-website-v2
 
 ## Introduction
 
@@ -8,14 +8,14 @@ I use React because I intend to create a simple one-page web-application with th
 
 Feel free to fork it. In fact, I encourage it.
 
-### Hosting and deployment
+## Hosting and deployment
 The website is bootstrapped with [Create React App](https://create-react-app.dev/docs/adding-typescript/) and hosted by [GitHub Pages](https://docs.github.com/en/pages). I use a custom domain from [Squarespace Domains](https://domains.squarespace.com/).
 
-### Documentation
+## Documentation
 [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 [Deploying a React App (create-react-app) to GitHub Pages](https://github.com/gitname/react-gh-pages)
 
-### Running commands
+## Running commands
 I use [Git Bash](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_git-bash-on-windows) integrated in [VS Code](https://code.visualstudio.com/download) to run commands. I use [npm] for the package manager.
 
 You can preview the website by locally hosting it on your machine:
@@ -31,7 +31,7 @@ git commit -m "updated"
 git push origin main
 ```
 
-### Packages, libraries, and other tools:
+## Packages, libraries, and other tools:
 `gh-pages` - Publish files to a gh-pages branch.
 `react-icons` - SVG icons for React.
 `simple-icons` - More icons.
