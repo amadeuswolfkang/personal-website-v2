@@ -12,8 +12,8 @@ Feel free to fork it. In fact, I encourage it.
 The website is bootstrapped with [Create React App](https://create-react-app.dev/docs/adding-typescript/) and hosted by [GitHub Pages](https://docs.github.com/en/pages). I use a custom domain from [Squarespace Domains](https://domains.squarespace.com/).
 
 ## Documentation
-[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
-[Deploying a React App (create-react-app) to GitHub Pages](https://github.com/gitname/react-gh-pages)
+[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) <br />
+[Deploying a React App (create-react-app) to GitHub Pages](https://github.com/gitname/react-gh-pages) <br />
 
 ## Running commands
 I use [Git Bash](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_git-bash-on-windows) integrated in [VS Code](https://code.visualstudio.com/download) to run commands. I use [npm] for the package manager.
